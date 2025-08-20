@@ -54,7 +54,6 @@ setuptools==80.9.0
 sgmllib3k==1.0.0
 six==1.17.0
 soupsieve==2.7
-ta-lib==0.6.4
 tqdm==4.67.1
 typing_extensions==4.14.1
 tzdata==2025.2
