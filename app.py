@@ -312,4 +312,4 @@ def update_graph(selected_ticker, min_hold_days):
     return fig, f"Selected Ticker: {selected_ticker}"
 
 if __name__ == "__main__":
-    app.run_server(host="0.0.0.0", port=8050)
+    app.run(host="0.0.0.0", port=8050)
